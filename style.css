@@ -6,7 +6,7 @@ body{
 
 h2{
 font-size: 3em;
-text-align: center;    
+text-align: center;
 }
 
 .title{
@@ -16,15 +16,15 @@ text-align: center;
     color: white;
     text-align: center;
     transform: translate(-50%,-50%);
-        
+
 }
 .title h1{
     font-size: 5.5em;
     text-align: c
-        
+
 }
 .title p{
- font-size: 2em;   
+ font-size: 2em;
 }
 .navbar{
 	position: fixed;
@@ -41,9 +41,9 @@ text-align: center;
     height: 50px;
 	padding-left:100px;
 	padding-top:5px;
-    
+
 	}
-	
+
 .navbar ul li{
 	float:right;
 	width:15%;
@@ -52,7 +52,7 @@ text-align: center;
 	border-radius: 20px; /* edited */
 	border: 1px solid cyan; /* edited */
 	}
-	
+
 .navbar ul li a {
 	text-align: center;
 	display:block;
@@ -62,18 +62,18 @@ text-align: center;
 	text-decoration:none;
 	color: cyan;
 }
-	
+
 
 .navbar ul li:hover {
 
 	background-color: darkviolet; /* edited */
 }
 .navbar ul li a:hover {
-	color: floralwhite; /* edited */
+	color: blue; /* edited */
 }
 
 .home {
-  background: 
+  background:
     linear-gradient(
       rgba(0, 0, 0, 0.4),
       rgba(0, 0, 0, 0.4)
@@ -105,7 +105,7 @@ text-align: center;
     border-radius: 2px;
     float:left;
     padding-right: 100px;
-    padding left:100px;  
+    padding left:100px;
 }
 
 .card a {
@@ -140,7 +140,7 @@ footer {
     display: inline-block;
     vertical-align: top;
     width: 250px;
-    align-content: center;    
+    align-content: center;
     position: relative;
     overflow: hidden;
     margin: 40px;
@@ -181,7 +181,7 @@ footer {
 .skills{
     font-size: 2em;
     color:#00a087;
-    
+
 }
 .skills span{
 color: black;
@@ -195,8 +195,8 @@ section{
 }
 
 .container{
-    
-    
+
+
 }
 #PORTFOLIO {
 	background-color: #FFF;
@@ -206,8 +206,8 @@ section{
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
- 
-	
+
+
 }
 
 .gallery img {
@@ -217,7 +217,7 @@ section{
 .gallery {
   ...
   width: 500px;
- 
 
-  
+
+
 }
