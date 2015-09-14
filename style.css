@@ -56,20 +56,20 @@ text-align: center;
 .navbar ul li a {
 	text-align: center;
 	display:block;
-    height: 60px;
+    height: 20px; /* edited by mobran */
 	padding:0px 0px;
 	font-size:15px;
+	margin-top: 10px;
 	text-decoration:none;
-	color: cyan;
+	color: cyan; /* edited by mobran */
+	font-size: 20px; /* edited by mobran */
+	font-weight: 600; /* edited by mobran */
 }
 
 
 .navbar ul li:hover {
 
 	background-color: darkviolet; /* edited */
-}
-.navbar ul li a:hover {
-	color: blue; /* edited by mobran */
 }
 
 .home {
